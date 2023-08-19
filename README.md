@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Rutz1234/Huddle-landingpage))
+- Solution URL: (https://github.com/Rutz1234/Huddle-landingpage)
 - Live Site URL: ( https://rutz1234.github.io/Huddle-landingpage/)
 
 ## My process
